@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### 🛠️ Featured Projects
+
+* **[Cleanify Application](https://github.com/tejaswi0308/Cleanify_Application)** - Android Mobile App (Collaborator)
